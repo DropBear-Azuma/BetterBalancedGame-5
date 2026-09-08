@@ -3177,7 +3177,7 @@
 			<Text>전쟁의 북소리</Text>
 		</Replace>
 		<Replace Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_GOLDEN_AGE" Language="ko_KR">
-			<Text>전쟁의 북소리 황금기:[NEWLINE][ICON_RESOURCE_HORSES] 말, [ICON_RESOURCE_IRON] 철, [ICON_RESOURCE_NITER] 질산칼륨 자원을 발견하였다면, 매턴 2개씩 제공합니다. 군사 유닛 생산 시 [ICON_PRODUCTION] 생산력 +15%를 제공합니다. 모든 유닛의 [ICON_GOLD] 금 유지 비용이 1 감소합니다. 주둔지 특수지구와 내부 건물에서 [ICON_PRODUCTION] 생산력 +1을 획득합니다. 적 유닛을 처치하면 처치한 유닛 기본 [ICON_Strength] 전투력의 40%에 준하는 [ICON_Culture] 문화를 획득합니다(온라인 속도 기준).</Text>
+			<Text>전쟁의 북소리 황금기:[NEWLINE][ICON_RESOURCE_HORSES] 말, [ICON_RESOURCE_IRON] 철, [ICON_RESOURCE_NITER] 질산칼륨 자원을 발견하였다면, 매턴 2개씩 제공합니다. 군사 유닛 생산 시 [ICON_PRODUCTION] 생산력 +15%를 제공합니다. 주둔지 특수지구와 내부 건물에서 [ICON_PRODUCTION] 생산력 +1을 획득합니다. 적 유닛을 처치하면 처치한 유닛 기본 [ICON_Strength] 전투력의 40%에 준하는 [ICON_Culture] 문화를 획득합니다(온라인 속도 기준).</Text>
 		</Replace>
 		<Replace Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_NORMAL_AGE" Language="ko_KR">
 			<Text>전쟁의 북소리 집중 전략 보너스:[NEWLINE]위인을 영입할 때마다 시대 점수 +1을 획득합니다.</Text>
@@ -4665,7 +4665,7 @@
 			<Text>위인 관련 정책은 해당 위인 유형에 대응하는 특수지구를 보유한 도시에서 턴당 [ICON_FOOD] 식량 +2를, 해당하는 건물에서 [ICON_FOOD] 식량 +1을 제공합니다. 외교 정책은 바테이가 있는 도시에서 [ICON_AMENITIES] 쾌적도 +1을 제공합니다.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_CVS_ANACAONA_UA_DESCRIPTION" Language="ko_KR">
-			<Text>[COLOR:212,115,212,255]정치 철학[ENDCOLOR]에서, 선택한 각 시대 집중전략이 서로 다른 유형의 정책 슬롯을 부여합니다:[NEWLINE]• [COLOR:217,67,67,255]군사[ENDCOLOR] 정책:[NEWLINE]- 전쟁의 북소리[NEWLINE]- 소집령[NEWLINE]- 자동화 전쟁[NEWLINE][NEWLINE] • [COLOR:235,184,35,255]경제[ENDCOLOR] 정책:[NEWLINE]- 자유 탐구[NEWLINE]- 화폐 개혁[NEWLINE]- 하늘과 별[NEWLINE][NEWLINE] • [COLOR:103,204,4,255]외교[ENDCOLOR] 정책:[NEWLINE]- 펜, 붓, 목소리[NEWLINE]- 히크 순트 드라코네스[NEWLINE]- 거짓의 호위[NEWLINE][NEWLINE] • [COLOR:149,0,232,255]와일드카드[ENDCOLOR] 정책:[NEWLINE]- 기념비성[NEWLINE]- 증기 기관의 고동[NEWLINE]- 함께라면 좋을 텐데[NEWLINE][NEWLINE]행복한 도시에서 [ICON_GOLD] 금 +5%(황홀한 도시에서 +10%, 열광적인 도시에서 +15%로 증가).</Text>
+			<Text>[COLOR:212,115,212,255]정치 철학[ENDCOLOR]에서, 선택한 각 시대 집중전략이 서로 다른 유형의 정책 슬롯을 부여합니다:[NEWLINE]• [COLOR:217,67,67,255]군사[ENDCOLOR] 정책:[NEWLINE]- 전쟁의 북소리[NEWLINE]- 전투 준비![NEWLINE]- 자동화 전쟁[NEWLINE][NEWLINE] • [COLOR:235,184,35,255]경제[ENDCOLOR] 정책:[NEWLINE]- 자유 탐구[NEWLINE]- 주화 개혁[NEWLINE]- 하늘과 별[NEWLINE][NEWLINE] • [COLOR:103,204,4,255]외교[ENDCOLOR] 정책:[NEWLINE]- 펜, 붓 목소리[NEWLINE]- 여기 용이 있다[NEWLINE]- 거짓의 경호원[NEWLINE][NEWLINE] • [COLOR:149,0,232,255]와일드카드[ENDCOLOR] 정책:[NEWLINE]- 기념비성[NEWLINE]- 증기의 심장 박동[NEWLINE]- 당신과 함께였다면[NEWLINE][NEWLINE]행복한 도시에서 [ICON_GOLD] 금 +5%(황홀한 도시에서 +10%, 열광적인 도시에서 +15%로 증가).</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_CVS_TAINO_UI_DESCRIPTION" Language="ko_KR">
 			<Text>유흥단지를 대체하는 타이노 특유의 특수지구입니다.[NEWLINE][NEWLINE]유흥단지의 일반적인 보너스에 더해, 인접한 상업 중심지마다 [ICON_PRODUCTION] 생산력 +2와 [ICON_GOLD] 금 +3을, 인접한 항만마다 [ICON_PRODUCTION] 생산력 +4와 [ICON_GOLD] 금 +6을 제공합니다.[NEWLINE][NEWLINE]이 특수지구의 아레나는 [ICON_GreatWork_WRITING] 저술 걸작 슬롯 2개를 제공합니다.[NEWLINE][NEWLINE]도시가 매턴 [ICON_PRODUCTION] 생산력의 30%를 [ICON_FAITH] 신앙으로 전환하는 고유 프로젝트를 시작할 수 있으며, 완료 시 [ICON_GREATWRITER] 위대한 저술가, [ICON_GREATARTIST] 위대한 예술가, [ICON_GREATMUSICIAN] 위대한 음악가 점수를 제공합니다. 극장가 프로젝트보다 [ICON_GreatWriter] 위대한 저술가 점수를 20% 더 제공합니다.</Text>
@@ -4833,10 +4833,10 @@
 			<Text>전투 경험치 +100%. (왔노라, 보았노라, 이겼노라)</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_BATH_DESCRIPTION" Language="ko_KR">
-			<Text>도시 성장을 위한 로마 특유의 특수지구입니다. 송수로 특수지구를 대체하며 건설 비용이 더 낮습니다. 인접한 특수지구 타일 2개당 보너스 [ICON_Culture] 문화 +1을 획득합니다.[NEWLINE][NEWLINE]인접한 강, 호수, 오아시스 또는 산으로부터 이 도시에 담수 원천을 제공합니다. 담수를 확보하지 못한 도시에는 [ICON_Housing] 주거공간을 최대 6만큼 제공합니다. 하지만 이미 담수를 확보한 도시에는 [ICON_Housing] 주거공간 +2를 제공합니다. 도심부 옆에 지어야 합니다.</Text>
+			<Text>도시 성장을 위한 로마 특유의 특수지구입니다. 송수로 특수지구를 대체하며 건설 비용이 더 낮습니다. 인접한 특수지구 타일당 보너스 [ICON_Culture] 문화 +1을 획득합니다.[NEWLINE][NEWLINE]인접한 강, 호수, 오아시스 또는 산으로부터 이 도시에 담수 원천을 제공합니다. 담수를 확보하지 못한 도시에는 [ICON_Housing] 주거공간을 최대 6만큼 제공합니다. 하지만 이미 담수를 확보한 도시에는 [ICON_Housing] 주거공간 +2를 제공합니다. 도심부 옆에 지어야 합니다.</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_BATH_EXPANSION2_DESCRIPTION" Language="ko_KR">
-			<Text>도시 성장을 위한 로마 특유의 특수지구입니다. 송수로 특수지구를 대체하며 건설 비용이 더 낮습니다. 인접한 특수지구 타일 2개당 보너스 [ICON_Culture] 문화 +1을 획득합니다.[NEWLINE][NEWLINE]인접한 강, 호수, 오아시스 또는 산으로부터 이 도시에 담수 원천을 제공합니다. 담수를 확보하지 못한 도시에는 [ICON_Housing] 주거공간을 최대 6만큼 제공합니다. 하지만 이미 담수를 확보한 도시에는 [ICON_Housing] 주거공간 +2를 제공합니다. 지열 열하 옆에 건설한 경우 [ICON_Amenities] 쾌적도 +1을 제공합니다. 가뭄 기간 중 [ICON_Food] 식량 손실을 방지합니다. 도심부 옆에 건설해야 합니다.</Text>
+			<Text>도시 성장을 위한 로마 특유의 특수지구입니다. 송수로 특수지구를 대체하며 건설 비용이 더 낮습니다. 인접한 특수지구 타일당 보너스 [ICON_Culture] 문화 +1을 획득합니다.[NEWLINE][NEWLINE]인접한 강, 호수, 오아시스 또는 산으로부터 이 도시에 담수 원천을 제공합니다. 담수를 확보하지 못한 도시에는 [ICON_Housing] 주거공간을 최대 6만큼 제공합니다. 하지만 이미 담수를 확보한 도시에는 [ICON_Housing] 주거공간 +2를 제공합니다. 지열 열하 옆에 건설한 경우 [ICON_Amenities] 쾌적도 +1을 제공합니다. 가뭄 기간 중 [ICON_Food] 식량 손실을 방지합니다. 도심부 옆에 건설해야 합니다.</Text>
 		</Replace>
 		<Replace Tag="LOC_BBG_ONAGER_FREE_PROMOTION_ABILITY_DESC" Language="ko_KR">
 			<Text>1개의 [ICON_Promotion] 무료 진급을 갖추고 시작합니다.</Text>
